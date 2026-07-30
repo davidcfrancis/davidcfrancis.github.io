@@ -35,6 +35,7 @@ website:
 
 format:
   html:
+    pagetitle: "David C. Francis - personal website"
     theme:
       - cosmo
       - styles.scss
