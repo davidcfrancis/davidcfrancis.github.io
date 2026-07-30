@@ -1,9 +1,6 @@
 ---
 title: "Research"
 ---
-
-The rail on the left gives publication stage, year, and the evidence base.
-
 ## Work in progress
 
 ::: {.paper}
