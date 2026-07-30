@@ -7,29 +7,13 @@ Senior Economist · World Bank, DEC Enterprise Analysis Unit
 :::
 
 ::: {.lede}
-I work on two things that turn out to be the same thing: measuring firms and
-labor markets well, and using that measurement to identify how households and
-firms respond when conditions change.
-:::
 
 I am a Senior Economist in the World Bank's DEC Enterprise Analysis Unit, where
-I have worked since 2010. Much of my job is building data — I coordinate the
-Informal Sector Enterprise Survey across 15 countries, have served as Task Team
-Leader for Enterprise Surveys in roughly 60 economies, and advise on firm-level
-question design for Business Ready (B-READY).
+I have worked since 2010. My work focuses on data collection on private enterprise, especially informal businesses. 
+My research interests include informality, labor supply, institutional economics, corruption, and political economy.
 
-My research runs alongside that. Recent published work covers firm-level
-political influence across 41 countries, the gendered labor allocation response
-of agricultural households to herder-related violence, transactional governance
-structures, and productivity and firm exit in developing countries. Current
-projects use quasi-experimental designs to study labor supply responses to
-pension reform in Argentina, sudden household deaths in South Africa, and
-repeated drought in Mexico.
+:::
 
-I am completing a Ph.D. in Public Policy and Administration at George Washington
-University, concentrating in program evaluation. Before the World Bank I was a
-Research Specialist at Princeton's Niehaus Center on Globalization and
-Governance.
 
 ::: {.eyebrow style="margin-top:3rem; display:block;"}
 Contact
