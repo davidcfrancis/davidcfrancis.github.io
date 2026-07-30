@@ -1,0 +1,50 @@
+---
+title: "Data & Measurement"
+---
+
+A large share of my work is building the instruments other researchers use.
+This page describes what those are and where to find them.
+
+## Informal Sector Enterprise Survey (IS-WBES)
+
+I coordinate the Unit's informal sector survey work across 15 countries,
+overseeing the task team leaders who implement it. That included developing the
+collection methodology and the implementation infrastructure behind it —
+measuring businesses that do not appear in any sampling frame is a hard problem,
+and the adaptive cluster sampling approach we settled on is documented in
+[Aga et al. (2023)](https://doi.org/10.1093/jssam/smac037).
+
+[Informal business data at Enterprise Surveys](https://www.enterprisesurveys.org)
+
+## World Bank Enterprise Surveys (WBES)
+
+I have served as Task Team Leader for Enterprise Survey implementation in the
+United States, Canada, and Israel (2024–25); West Bank and Gaza (2023);
+Malaysia (2020–21); 11 European Union countries (2019); 31 economies in Latin
+America and the Caribbean (2010 and 2017); and 7 MENA economies (2013, 2014,
+and 2023). The role covers contractor management, data collection and quality
+control, and working with national statistics offices on sampling frames and
+business population projections.
+
+[enterprisesurveys.org](https://www.enterprisesurveys.org)
+
+## Business Ready (B-READY)
+
+I act as the DECEA coordinator to the B-READY project, developing and
+consolidating consultations on the firm-level questions integrated into the
+report. The first round drew on Enterprise Survey data from approximately 55
+economies; I currently lead question refinement for the second round of
+collection.
+
+[Business Ready](https://www.worldbank.org/en/businessready)
+
+## Policy Indicator Briefs
+
+Series coordinator and co-editor, with Norman Loayza, of the Indicator Group's
+Policy Indicator Briefs — providing analytical guidance through editing and
+production. Over 50 briefs published to date.
+
+## Code
+
+Replication material for individual papers is linked from the
+[Research](research.qmd) page.

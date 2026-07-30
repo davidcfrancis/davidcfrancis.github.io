@@ -1,0 +1,222 @@
+---
+title: "Research"
+---
+
+The rail on the left gives publication stage, year, and the evidence base.
+
+## Work in progress
+
+::: {.paper}
+::: {.rail}
+[In progress]{.stage}
+[2026]{.year}
+[Rotating panel · EPH, Argentina]{.source}
+:::
+::: {}
+### Estimating the Labor Supply Effects of Argentina's 2023 Pension Moratorium
+::: {.summary}
+Argentina's 2023 pension moratorium (Law 27,705) allowed workers with incomplete contribution histories to access benefits by paying arrears. This paper estimates how eligibility affected labor force participation, using the staggered onset across cohorts in the EPH rotating panel.
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[In progress]{.stage}
+[2026]{.year}
+[Household panel · NIDS, South Africa]{.source}
+:::
+::: {}
+### Labor Responses to Household Deaths in South Africa
+::: {.summary}
+Uses the National Income Dynamics Study panel to ask how surviving household members adjust labor supply following a death in the household, focusing on deaths that were plausibly unanticipated.
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[In progress]{.stage}
+[2026]{.year}
+[Household panel · Mexico]{.source}
+:::
+::: {}
+### The Labor Market Effects of Repeated Drought Events in Mexico
+::: {.summary}
+Examines how repeated exposure to drought — as distinct from a single shock — shapes labor market outcomes in Mexico.
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[In progress]{.stage}
+[2026]{.year}
+[Cross-country panel · WBL, WDI]{.source}
+:::
+::: {}
+### Sexual Harassment Legislation and Female Labor Force Participation
+::: {.summary}
+Asks how the adoption of sexual harassment legislation relates to female labor force participation across countries, and whether the response varies with baseline participation.
+:::
+:::
+:::
+
+## Peer-reviewed articles
+
+::: {.paper}
+::: {.rail}
+[Published]{.stage}
+[2026]{.year}
+[Political Science Research and Methods 14(2)]{.source}
+:::
+::: {}
+### Beyond Political Connections: A Measurement Model Approach to Estimating Firm-Level Political Influence in 41 Countries
+::: {.coauthors}
+with Robert Kubinec
+:::
+::: {.links}
+[Journal](https://doi.org/10.1017/psrm.2025.10046)
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[Published]{.stage}
+[2025]{.year}
+[Journal of Development Economics 176]{.source}
+:::
+::: {}
+### Herder-Related Violence, Labor Allocation, and the Gendered Response of Agricultural Households
+::: {.coauthors}
+with Jeffrey R. Bloem, Amy Damon, and Harrison Mitchell
+:::
+::: {.links}
+[Journal](https://doi.org/10.1016/j.jdeveco.2025.103512)
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[Published]{.stage}
+[2023]{.year}
+[J. Survey Statistics and Methodology]{.source}
+:::
+::: {}
+### An Application of Adaptive Cluster Sampling to Surveying Informal Businesses
+::: {.coauthors}
+with Gemechu Aga, Filip Jolevski, Jorge Rodriguez Meza, and Joshua Wimpey
+:::
+::: {.links}
+[Journal](https://doi.org/10.1093/jssam/smac037)
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[Published]{.stage}
+[2023]{.year}
+[J. Law, Economics, and Organization]{.source}
+:::
+::: {}
+### Transactional Governance Structures: New Cross-Country Data and an Application to the Effect of Uncertainty
+::: {.coauthors}
+with Peter Murrell and Nona Karalashvili
+:::
+::: {.links}
+[Journal](https://doi.org/10.1093/jleo/ewad002)
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[Published]{.stage}
+[2017]{.year}
+[Small Business Economics 49]{.source}
+:::
+::: {}
+### As the Market Churns: Productivity and Firm Exit in Developing Countries
+::: {.coauthors}
+with Gemechu Aga
+:::
+::: {.links}
+[Journal](https://doi.org/10.1007/s11187-016-9817-7)
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[Published]{.stage}
+[2017]{.year}
+[Economics of Transition 25(2)]{.source}
+:::
+::: {}
+### Not So Different from Non-Traders: Trade Premia in the Middle East and North Africa
+::: {.coauthors}
+with Helena Schweiger
+:::
+::: {.links}
+[Journal](https://doi.org/10.1111/ecot.12122)
+:::
+:::
+:::
+
+## Policy research working papers
+
+::: {.paper}
+::: {.rail}
+[Working paper]{.stage}
+[2018]{.year}
+[World Bank PRWP 8502]{.source}
+:::
+::: {}
+### Do Politically Connected Firms Innovate, Contributing to Long-Term Economic Growth?
+::: {.coauthors}
+with Sahar S. Hussain and Marc Schiffbauer
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[Working paper]{.stage}
+[2016]{.year}
+[World Bank PRWP 7835]{.source}
+:::
+::: {}
+### Deepening Without Broadening? Jobs in Ghana's Private Sector
+::: {.coauthors}
+with Maddalena Honorati
+:::
+:::
+:::
+
+::: {.paper}
+::: {.rail}
+[Working paper]{.stage}
+[2015]{.year}
+[World Bank PRWP 7493]{.source}
+:::
+::: {}
+### SMEs, Age, and Jobs: A Review of the Literature, Metrics, and Evidence
+::: {.coauthors}
+with Gemechu Aga and Jorge Rodríguez-Meza
+:::
+:::
+:::
+
+## Reports and book chapters
+
+- **Beyond Political Connections** (background paper), with R. Kubinec, in *Unlocking Sustainable Growth in the MENA Private Sector*, ed. R. Gatti. World Bank / EBRD / EIB, 2022.
+- **Competition, Regulation, and Productivity**, with R. Divanbeigi, in *Turkey Country Economic Memorandum: Firm Productivity and Economic Growth*, ed. H. Rab. World Bank Group, 2019.
+- **Suriname Investment Climate and Sector Competitiveness Report**, ed. J. Anderson. World Bank Group, 2019.
+- **Firm Productivity and the Business Environment**, with M. Amin, T. Bending, A. Islam, A. Jain, and J. Rodriguez Meza, in *What's Holding Back the Private Sector in MENA?* World Bank / EBRD / EIB, 2016.
+- **Jobs and Skills in the Formal Private Sector**, with M. Amin, F. Betz, A. Islam, A. Stepanov, and S. Stölting, in *What's Holding Back the Private Sector in MENA?* World Bank / EBRD / EIB, 2016.
+- **Competitiveness in the MENA Region: Trade, Innovation, and Management Practices**, with H. Schweiger and A. Stepanov, in *What's Holding Back the Private Sector in MENA?* World Bank / EBRD / EIB, 2016.
+- **The Effect of the Swedish Payroll Tax Cut for Youths on Firm Profitability**, with J. Eklund, N. Jiang, and A. Malm, in *Sweden's Business Climate: A Microeconomic Assessment*, ed. J. Rodriguez Meza. World Bank Group, 2016.
+- **Results of the Regional Enterprise Survey in Turkey: 2016**, ed. J. Nasir. World Bank, 2016.

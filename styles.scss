@@ -1,0 +1,188 @@
+/*-- scss:defaults --*/
+
+// Type
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@300;400;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+$font-family-sans-serif: "Source Sans 3", -apple-system, BlinkMacSystemFont, sans-serif;
+$font-family-monospace: "IBM Plex Mono", ui-monospace, monospace;
+$headings-font-family: "Spectral", Georgia, serif;
+
+$font-size-root: 17px;
+$line-height-base: 1.62;
+
+// Palette
+$ink:        #16202b;   // near-black, cool
+$paper:      #fcfcfa;
+$rule:       #dde1e6;
+$muted:      #5c6672;
+$accent:     #1f5f6b;   // deep teal
+$accent-lit: #2d8b9c;
+
+$body-bg:    $paper;
+$body-color: $ink;
+$link-color: $accent;
+$navbar-bg:  $paper;
+$navbar-fg:  $ink;
+
+$toc-color: $muted;
+
+/*-- scss:rules --*/
+
+// ---------- Base ----------
+
+.page-columns { --grid-body-width: 780px; }
+
+body { -webkit-font-smoothing: antialiased; }
+
+h1, h2, h3 {
+  font-weight: 500;
+  letter-spacing: -0.012em;
+}
+
+h1.title {
+  font-size: 2.1rem;
+  margin-bottom: 0.2rem;
+}
+
+h2 {
+  font-size: 1.32rem;
+  margin-top: 3rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid $rule;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba($accent, 0.32);
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+a:hover { color: $accent-lit; border-bottom-color: $accent-lit; }
+
+.navbar { border-bottom: 1px solid $rule; }
+.navbar-title { font-family: "Spectral", serif; font-weight: 500; letter-spacing: 0; }
+.navbar .nav-link { font-size: 0.95rem; }
+
+// ---------- Eyebrow labels (mono utility face) ----------
+
+.eyebrow {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: $muted;
+}
+
+// ---------- Paper listing ----------
+// Signature element: a mono metadata rail carrying stage, year, and
+// evidence base — the three things a reader actually screens papers on.
+
+.paper {
+  display: grid;
+  grid-template-columns: 8.5rem 1fr;
+  gap: 0 2rem;
+  padding: 1.6rem 0;
+  border-top: 1px solid $rule;
+}
+
+.paper:last-of-type { border-bottom: 1px solid $rule; }
+
+.paper .rail {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  line-height: 1.7;
+  color: $muted;
+  padding-top: 0.35rem;
+}
+
+.paper .rail .stage {
+  display: block;
+  color: $accent;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.paper .rail .year { display: block; }
+
+.paper .rail .source {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.68rem;
+}
+
+.paper h3 {
+  font-size: 1.12rem;
+  line-height: 1.4;
+  margin: 0 0 0.3rem 0;
+  font-weight: 500;
+}
+
+.paper .coauthors {
+  font-size: 0.92rem;
+  color: $muted;
+  margin-bottom: 0.6rem;
+}
+
+.paper .links {
+  font-size: 0.85rem;
+  margin-top: 0.7rem;
+}
+.paper .links a { margin-right: 1.1rem; }
+
+// Inline one-line project summary
+.paper .summary {
+  font-size: 0.92rem;
+  color: lighten($ink, 14%);
+  margin-top: 0.35rem;
+}
+
+// Collapsible abstract
+.paper details summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: $accent;
+  list-style: none;
+}
+.paper details summary::-webkit-details-marker { display: none; }
+.paper details summary::before { content: "+ "; font-family: "IBM Plex Mono", monospace; }
+.paper details[open] summary::before { content: "– "; }
+
+.paper details p {
+  font-size: 0.92rem;
+  color: lighten($ink, 12%);
+  margin-top: 0.7rem;
+  padding-left: 1rem;
+  border-left: 2px solid $rule;
+}
+
+// ---------- Landing ----------
+
+.lede {
+  font-family: "Spectral", serif;
+  font-size: 1.22rem;
+  line-height: 1.55;
+  margin-bottom: 2rem;
+}
+
+.headshot {
+  float: right;
+  width: 190px;
+  margin: 0.3rem 0 1.5rem 2rem;
+  border-radius: 2px;
+}
+
+// ---------- Responsive ----------
+
+@media (max-width: 620px) {
+  .paper { grid-template-columns: 1fr; gap: 0.5rem; }
+  .paper .rail { padding-top: 0; }
+  .paper .rail .stage, .paper .rail .year, .paper .rail .source {
+    display: inline; margin-right: 0.8rem;
+  }
+  .headshot { float: none; display: block; margin: 0 0 1.5rem 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; scroll-behavior: auto !important; }
+}
