@@ -16,8 +16,8 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: data.qmd
-        text: Data & Measurement
+      - href: code.qmd
+        text: Code
     tools:
       - icon: envelope
         href: "mailto:davidcfrancis@gmail.com"

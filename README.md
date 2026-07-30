@@ -13,7 +13,7 @@ minutes, and the Actions tab will show the rebuild.
 |---|---|
 | `index.qmd` | Landing page, bio, contact |
 | `research.qmd` | Papers, grouped by stage |
-| `data.qmd` | IS-WBES, WBES, B-READY, Policy Indicator Briefs |
+| `code.qmd` | Replication packages and tools |
 | `_quarto.yml` | Site title, nav bar, footer |
 | `styles.scss` | Colors, type, paper-listing layout |
 

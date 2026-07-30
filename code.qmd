@@ -1,0 +1,30 @@
+---
+title: "Code"
+---
+
+Replication material and reusable tools. Everything here is on
+[GitHub](https://github.com/davidcfrancis).
+
+## Replication packages
+
+::: {.paper}
+::: {.rail}
+[Replication]{.stage}
+[2026]{.year}
+[Stata]{.source}
+:::
+::: {}
+### Estimating the Labor Supply Effects of Argentina's 2023 Pension Moratorium
+::: {.summary}
+Full pipeline: sample construction from EPH, staggered difference-in-differences
+estimation, and sensitivity analysis.
+:::
+::: {.links}
+[Repository](https://github.com/davidcfrancis/REPO-NAME)
+:::
+:::
+:::
+
+## Tools
+
+Nothing published yet.
