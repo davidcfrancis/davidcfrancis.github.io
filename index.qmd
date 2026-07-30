@@ -8,9 +8,11 @@ Senior Economist · World Bank, DEC Enterprise Analysis Unit
 
 ::: {.lede}
 
-I am a Senior Economist in the World Bank's DEC Enterprise Analysis Unit, where
+I am a Senior Economist in the World Bank's [Enterprise Analysis unit](https://www.enterprisesurveys.org) , where
 I have worked since 2010. My work focuses on data collection on private enterprise, especially informal businesses. 
-My research interests include informality, labor supply, institutional economics, corruption, and political economy.
+My research interests include informality, labor supply, institutional economics, corruption, and political economy. I also co-edit the World Bank's Policy Indicators Briefs series, which can be found [here](https://www.worldbank.org/en/about/unit/unit-dec/policy-indicators-group/policy-indicators-briefs). 
+
+This page is my personal website, featuring [research](https://davidcfrancis.github.io/research.html) and [code](https://davidcfrancis.github.io/code.html). 
 
 :::
 
@@ -21,7 +23,7 @@ Contact
 
 [davidcfrancis@gmail.com](mailto:davidcfrancis@gmail.com) ·
 [dfrancis@worldbank.org](mailto:dfrancis@worldbank.org) ·
-[ORCID 0009-0009-4922-7517](https://orcid.org/0009-0009-4922-7517) ·
+[ORCID](https://orcid.org/0009-0009-4922-7517) ·
 [LinkedIn](https://linkedin.com/in/david-francis)
 
 Views expressed here are my own.
