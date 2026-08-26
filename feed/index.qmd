@@ -1,0 +1,8 @@
+---
+title: "What I'm reading"
+
+listing:
+  contents: posts
+  sort: "date desc"
+  feed: true
+---
