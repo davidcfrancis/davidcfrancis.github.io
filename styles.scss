@@ -186,3 +186,18 @@ a:hover { color: $accent-lit; border-bottom-color: $accent-lit; }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; scroll-behavior: auto !important; }
 }
+
+/* What I'm reading table */
+table td,
+table th {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  line-height: 1.45;
+  vertical-align: top;
+}
+
+/* Keep dates on one line */
+table td:first-child,
+table th:first-child {
+  white-space: nowrap;
+}
