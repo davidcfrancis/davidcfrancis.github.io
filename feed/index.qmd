@@ -1,14 +1,12 @@
+```markdown
 ---
 title: "What I'm reading"
-
-listing:
-  contents: posts
-  type: table
-  fields: [date, title, author]
-  sort: "date desc"
-  sort-ui: false
-  filter-ui: false
-  table-hover: true
-  feed:
-    type: metadata
 ---
+
+A running list of research, books, articles, and other work I've found interesting.
+
+| Added | Type | Title |
+|---|---|---|
+| Aug. 26, 2026 | Paper | [A Model of Global Firms and Capital Markets](https://www.nber.org/papers/w35652) |
+| Aug. 26, 2026 | Policy Brief | [How Business-to-Business Agreements are Governed: Letting the Data Speak](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099630106112632127) |
+```
