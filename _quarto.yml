@@ -3,6 +3,7 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
+    - "feed/**/*.qmd"
 
 website:
   title: "David C. Francis"
@@ -11,13 +12,15 @@ website:
 
   navbar:
     title: "David C. Francis"
-    right:
-      - href: index.qmd
-        text: About
-      - href: research.qmd
-        text: Research
-      - href: code.qmd
-        text: Code
+right:
+  - href: index.qmd
+    text: About
+  - href: research.qmd
+    text: Research
+  - href: feed/index.qmd
+    text: What I'm reading
+  - href: code.qmd
+    text: Code
     tools:
       - icon: envelope
         href: "mailto:davidcfrancis@gmail.com"
