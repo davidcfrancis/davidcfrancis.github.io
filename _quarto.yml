@@ -3,7 +3,7 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
-    - "feed/**/*.qmd"
+ - "feed/**/*.qmd"
 
 website:
   title: "David C. Francis"
@@ -17,8 +17,8 @@ right:
     text: About
   - href: research.qmd
     text: Research
-  - href: feed/index.qmd
-    text: What I'm reading
+    - href: feed/index.qmd
+      text: What I'm reading
   - href: code.qmd
     text: Code
     tools:
