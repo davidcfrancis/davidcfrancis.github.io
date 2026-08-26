@@ -3,34 +3,39 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
- - "feed/**/*.qmd"
+    - "feed/**/*.qmd"
 
 website:
   title: "David C. Francis"
   description: "Empirical labor and development economics; firm-level measurement."
-  site-url: https://davidcfrancis.github.io
+  site-url: "https://davidcfrancis.github.io"
 
   navbar:
     title: "David C. Francis"
-right:
-  - href: index.qmd
-    text: About
-  - href: research.qmd
-    text: Research
-    - href: feed/index.qmd
-      text: What I'm reading
-  - href: code.qmd
-    text: Code
+
+    right:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: feed/index.qmd
+        text: What I'm reading
+      - href: code.qmd
+        text: Code
+
     tools:
       - icon: envelope
         href: "mailto:davidcfrancis@gmail.com"
         text: Email
       - icon: linkedin
-        href: https://linkedin.com/in/david-francis
+        href: "https://www.linkedin.com/in/david-francis-2835783/"
         text: LinkedIn
       - icon: github
-        href: https://github.com/davidcfrancis
+        href: "https://github.com/davidcfrancis"
         text: GitHub
+      - icon: rss
+        href: "feed/index.xml"
+        text: RSS
 
   page-footer:
     left: "© 2026 David C. Francis"
