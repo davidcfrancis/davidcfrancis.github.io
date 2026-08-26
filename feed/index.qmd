@@ -5,7 +5,7 @@ title: "What I'm reading"
 A running list of research, books, articles, and other work I've found interesting. Inclusion in this list is not an endorsement of their content.
 
 | Added | Type | Source | Title
-|---|---|---|
+|---|---|---|---|
 | Aug. 26, 2026 | Paper | NBER | [A Model of Global Firms and Capital Markets](https://www.nber.org/papers/w35652) |
 | Aug. 26, 2026 | Policy Brief | World Bank Policy Indicators Briefs | [How Business-to-Business Agreements are Governed: Letting the Data Speak](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099630106112632127) |
 | Aug. 24, 2026 | News | The Economist | [Americans should rekindle their love for big business](https://www.economist.com/business/2026/08/24/americans-should-rekindle-their-love-for-big-business) |
