@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "What I'm reading"
 ---
@@ -9,4 +8,3 @@ A running list of research, books, articles, and other work I've found interesti
 |---|---|---|
 | Aug. 26, 2026 | Paper | [A Model of Global Firms and Capital Markets](https://www.nber.org/papers/w35652) |
 | Aug. 26, 2026 | Policy Brief | [How Business-to-Business Agreements are Governed: Letting the Data Speak](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099630106112632127) |
-```
