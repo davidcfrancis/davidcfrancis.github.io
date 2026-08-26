@@ -3,6 +3,12 @@ title: "What I'm reading"
 
 listing:
   contents: posts
+  type: table
+  fields: [date, title, author]
   sort: "date desc"
-  feed: true
+  sort-ui: false
+  filter-ui: false
+  table-hover: true
+  feed:
+    type: metadata
 ---
