@@ -2,10 +2,6 @@
 title: "A Model of Global Firms and Capital Markets"
 date: 2026-08-26
 author: "Loukas Karabarbounis, Bruno Pellegrino, and Juliana Salomao"
-categories:
-  - firms
-  - international
-  - finance
 ---
 
 [Read the paper](https://www.nber.org/papers/w35652)
