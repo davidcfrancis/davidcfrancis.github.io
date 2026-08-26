@@ -2,7 +2,7 @@
 title: "What I'm reading"
 ---
 
-A running list of research, books, articles, and other work I've found interesting.
+A running list of research, books, articles, and other work I've found interesting. Inclusion in this list is not an endorsement of their content.
 
 | Added | Type | Title |
 |---|---|---|
